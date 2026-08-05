@@ -1,7 +1,3 @@
-/*
-  Semua data utama website disimpan di file ini.
-  Cukup ubah nilai di bawah tanpa menyentuh index.html atau script.js.
-*/
 window.SITE_CONFIG = {
   userName: 'Risma VRP',
   brandName: 'QueenGMA',
