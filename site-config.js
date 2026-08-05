@@ -1,6 +1,10 @@
+/*
+  Semua data utama website disimpan di file ini.
+  Cukup ubah nilai di bawah tanpa menyentuh index.html atau script.js.
+*/
 window.SITE_CONFIG = {
   userName: 'Risma VRP',
-  brandName: 'GMA Affiliate',
+  brandName: 'QueenGMA',
   phoneDisplay: '0812-8230-6047',
   whatsappNumber: '6281282306047',
   whatsappMessage: 'Halo Risma, saya ingin bertanya tentang GMA Megapro Affiliate.',
