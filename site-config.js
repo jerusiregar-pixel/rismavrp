@@ -1,6 +1,6 @@
 window.SITE_CONFIG = {
   userName: 'Risma VRP',
-  brandName: 'QueenGMA',
+  brandName: 'GMA Affiliate',
   phoneDisplay: '0812-8230-6047',
   whatsappNumber: '6281282306047',
   whatsappMessage: 'Halo Risma, saya ingin bertanya tentang GMA Megapro Affiliate.',
